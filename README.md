@@ -9,7 +9,7 @@ works out your threshold, predicts race times, and forecasts how fit you will
 be on race day. A coach agent then builds each week's plan, which you approve
 or decline day by day.
 
-![How it works](images/architecture.png)
+![How it works](architecture.png)
 
 ---
 
