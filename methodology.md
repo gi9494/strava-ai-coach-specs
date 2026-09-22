@@ -7,18 +7,18 @@ works out your threshold, predicts race times, and forecasts how fit you will
 be on race day. A coach agent then builds each week's plan, which you approve
 or decline day by day.
 
-![How it works](docs/architecture.png)
+![How it works](architecture.png)
 
 ## Demo
 
 **The app at a glance** — goal race card, the Mon–Sun week, charts, coach chat
 
-![Demo 1](docs/demo1.gif)
+![Demo 1](demo1.gif)
 
 **Planning with the coach** — ask for a week or a change, review the proposal,
 approve or decline each day
 
-![Demo 2](docs/demo2.gif)
+![Demo 2](demo2.gif)
 
 ---
 
