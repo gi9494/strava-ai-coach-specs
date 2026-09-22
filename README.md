@@ -1,5 +1,7 @@
 # strava-ai-coach
 
+> 🔒 **Note:** The implementation details and Python source code for this project are maintained in a private repository. Access can be granted to hiring teams upon request during technical interviews.
+> 
 A running coach built on your own training data.
 
 It pulls your runs from Strava and corrects them for the weather. From them it
